@@ -93,3 +93,10 @@
 
 
 
+<a href="https://example.com/version1.jpg" class="download-btn" download>
+  ⭐ Download Cover Image (Version 1)
+</a>
+
+<a href="https://example.com/version2.jpg" class="download-btn" download>
+  ⭐ Download Cover Image (Version 2)
+</a>
